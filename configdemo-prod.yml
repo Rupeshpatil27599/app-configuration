@@ -1,5 +1,5 @@
 build:
   id: 3030303030
   version: 3000.2.3
-  name: "Prod-Git-Production-Build"
+  name: "Prod-Git-Updated-Production-Build"
   type: "Git Production-Build"
